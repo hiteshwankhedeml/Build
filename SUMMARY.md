@@ -19,3 +19,8 @@
 * [Components of BPA](components-of-bpa.md)
 * [Different working models](different-working-models.md)
 * [Project -- Process -- Tasks](project-process-tasks.md)
+* [Configuring the SMTP mail destination](configuring-the-smtp-mail-destination.md)
+* [Instance](instance.md)
+* [Page 3](page-3.md)
+* [Page 4](page-4.md)
+* [Page 5](page-5.md)
