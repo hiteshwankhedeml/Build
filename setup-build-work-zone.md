@@ -16,7 +16,7 @@
 * We can also make changes to login screen like changing logo etc
 *   We can also change template for email like forgot password etc here
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src=".gitbook/assets/{211A3BC1-898C-4965-A427-3F77C300C974}.png" alt=""><figcaption></figcaption></figure>
