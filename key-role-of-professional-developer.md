@@ -1,4 +1,8 @@
-# Key Role of Professional Developer
+---
+hidden: true
+---
+
+# ✈️ Key Role of Professional Developer
 
 * We need to learn so that we can teach to business application users also
 * Very high number of applications with low code

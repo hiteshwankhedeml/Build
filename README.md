@@ -1,4 +1,4 @@
-# Fusion Team
+# 🟢 Fusion Team
 
 * Typical team consists of pro developers + less knowledge of coding + people not knowing coding at all
 * Intelligent suite ⇒ s4 or ECC
@@ -7,7 +7,7 @@
 * LCNC allows them to contributing to application development
 * **Personas:**
   * Business owners ⇒ Domain experts
-  * **Pro developers ⇒ Also called citizen developers**
+  * <mark style="color:purple;background-color:purple;">**Pro developers ⇒ Also called citizen developers**</mark>
   * IT Admin ⇒ They  safeguard operations with centralized lifecycle management, monitoring and governance. They can use robust DevOps, automated testing, security and performance checks to ship with confidence
 *
 

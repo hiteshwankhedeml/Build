@@ -1,4 +1,8 @@
-# SAP Build Offering
+---
+hidden: true
+---
+
+# ✈️ SAP Build Offering
 
 * &#x20;
 *
