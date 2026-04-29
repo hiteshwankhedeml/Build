@@ -39,3 +39,6 @@
 * [BTP CF Security Concept](btp-cf-security-concept.md)
 * [Control](control.md)
 * [Control - Example](control-example.md)
+* [Monitoring](monitoring.md)
+* [Decision Table](decision-table.md)
+* [Decision Table - Steps](decision-table-steps.md)
