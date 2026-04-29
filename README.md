@@ -11,4 +11,4 @@
   * IT Admin ⇒ They  safeguard operations with centralized lifecycle management, monitoring and governance. They can use robust DevOps, automated testing, security and performance checks to ship with confidence
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

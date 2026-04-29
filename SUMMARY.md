@@ -37,3 +37,5 @@
 * [My Inbox](my-inbox.md)
 * [Page 1](page-1.md)
 * [BTP CF Security Concept](btp-cf-security-concept.md)
+* [Control](control.md)
+* [Control - Example](control-example.md)
