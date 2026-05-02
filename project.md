@@ -19,7 +19,7 @@
 * Code needs to be written in java script
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 * We can test by setting test variable and check the outputs
 * Add a branch step
 * In the 1st branch ⇒ Add Approval Form For Manager

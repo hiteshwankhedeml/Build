@@ -12,7 +12,7 @@
 3. Conditions&#x20;
 4. Now in Decision table we can enter the value
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/{6353E2F5-E703-49DF-9339-EE5DC3E4BC2E}.png" alt=""><figcaption></figcaption></figure>
 
