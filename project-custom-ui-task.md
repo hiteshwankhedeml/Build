@@ -5,7 +5,7 @@
 * Give the Application Id of form created and id
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 * Create Data Type HiringInfo
   * name
   * employerName

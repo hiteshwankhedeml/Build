@@ -45,7 +45,7 @@ Multiple Order:
 * Here choose the agent version which was registered
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src=".gitbook/assets/{C07EB421-F4C8-468A-BE4C-E250B0A01B50}.png" alt=""><figcaption></figcaption></figure>
