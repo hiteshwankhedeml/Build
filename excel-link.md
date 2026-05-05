@@ -15,7 +15,7 @@
 * It will ask for sample file
 *   Also create data type ⇒ this will be of what records will be there in each record
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 * After that each loop record
 * We can add a Log Message to display the record
 *
