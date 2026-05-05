@@ -65,3 +65,8 @@
 * [MTA File](mta-file.md)
 * [Steps](steps-1.md)
 * [Project - Custom UI Task](project-custom-ui-task.md)
+* [Import Project in BAS](import-project-in-bas.md)
+* [StartUI](startui.md)
+* [Project - Fiori Application to Start Build Process](project-fiori-application-to-start-build-process.md)
+* [Document Template](document-template.md)
+* [Project - Invoice Approval](project-invoice-approval.md)
