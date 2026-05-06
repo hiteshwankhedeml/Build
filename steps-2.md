@@ -31,7 +31,7 @@
 
 **Connect SAP to On premise system:**
 
-1. You need to provide IP, port etc
+1. You need to provide IP, port etc, Same way we can do RFC connection also
 2.  You also need to provide virtual host
 
     <figure><img src=".gitbook/assets/{4D491D4E-E0DD-4DAF-9C1B-7EE0D52591F6}.png" alt=""><figcaption></figcaption></figure>
