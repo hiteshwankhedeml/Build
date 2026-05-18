@@ -1,4 +1,4 @@
-# Scenario
+# 🟢 Scenario
 
 * Sales order created in hana
 * We need approval as huge discount offered

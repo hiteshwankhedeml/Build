@@ -1,4 +1,4 @@
-# Different working models
+# 🟢 Different working models
 
 **Ideal flow of building process:**
 
@@ -8,4 +8,3 @@
 * Reuse workflows from SAP workflow management either as a migration effort or when SAP BPA capabilities don't fulfill all your needs
 * Reuse automation project from SAP intelligent RPA - existing SAP intelligent RPA cloud studio projects are fully compatible with SAP BPA
 * Hybrid mode combining prepackages processes and workflow content
-*

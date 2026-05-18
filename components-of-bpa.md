@@ -1,4 +1,4 @@
-# Components of BPA
+# 🟢 Components of BPA
 
 **Lobby:**
 
@@ -8,19 +8,21 @@
 
 * LCNC design studio the business process and add multiple tasks
 
-**Connectors:**
+<mark style="color:purple;background-color:purple;">**Connectors:**</mark>
 
 * Configure connections with the system
+* <mark style="color:purple;background-color:purple;">**Actions, Events, Automation SDK**</mark>
 
-**Store:**
+<mark style="color:purple;background-color:purple;">**Store:**</mark>
 
-* Explore and import pre-built SAP standard process content
+* <mark style="color:purple;background-color:purple;">**Explore and import pre-built SAP standard process content**</mark>
 
-**Monitoring:**
+<mark style="color:purple;background-color:purple;">**Monitoring:**</mark>
 
-* Analyze and monitor the ongoing processes
+* <mark style="color:purple;background-color:purple;">**Analyze and monitor the ongoing processes**</mark>
 
-**Control tower:**
+<mark style="color:purple;background-color:purple;">**Control tower:**</mark>
 
+* <mark style="color:purple;background-color:purple;">**Environment, Agents**</mark>
 * Discover the implementation guide and configure IRPA desktop agents
 
