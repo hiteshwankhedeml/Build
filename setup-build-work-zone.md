@@ -1,4 +1,10 @@
-# Setup Build Work Zone
+# 🟢 Setup Build Work Zone
+
+* <mark style="color:purple;background-color:purple;">**Create subscription of Cloud identity service**</mark>
+* <mark style="color:purple;background-color:purple;">**Establish Trust**</mark>
+* <mark style="color:purple;background-color:purple;">**Create subscription of Build Workzone**</mark>
+
+
 
 * Booster ⇒ Not available
 

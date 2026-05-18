@@ -1,6 +1,6 @@
-# Build Process Automation
+# 🟢 Build Process Automation
 
-* Citizen developer solution to adapt, improve and innovate business processes with no code workflow management and robotic process automation capabilities
+* <mark style="color:purple;background-color:purple;">**Citizen developer solution to adapt, improve and innovate business processes with no code workflow management and robotic process automation capabilities**</mark>
 
 **Features:**
 

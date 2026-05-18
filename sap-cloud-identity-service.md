@@ -1,4 +1,8 @@
-# SAP Cloud Identity Service
+---
+hidden: true
+---
+
+# ✈️ SAP Cloud Identity Service
 
 * Group of services of BTP, which enables to integrate identity and access management between systems
 * The goal is to provide a seamless integration SSO experience across system while ensuring that system and data access are secure&#x20;

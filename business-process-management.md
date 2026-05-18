@@ -1,4 +1,8 @@
-# Business Process management
+---
+hidden: true
+---
+
+# ✈️ Business Process management
 
 * Software which manages business processes
 * It brings structure into the large amount of your busines processes

@@ -1,4 +1,4 @@
-# Key roles involved
+# 🟢 Key roles involved
 
 * Primary Participant
 * Secondary participant
@@ -6,40 +6,40 @@
 
 
 
-**Process owner:**
+<mark style="color:purple;background-color:purple;">**Process owner:**</mark>
 
-* Responsible for a process from the business perspective
+* <mark style="color:purple;background-color:purple;">**Responsible for a process from the business perspective**</mark>
 * Needs to trigger process adjustments when doesn't run smoothly
 * E.g., HR needs to define a smooth on-boarding of employee
 
 
 
-**Process Initiator:**
+<mark style="color:purple;background-color:purple;">**Process Initiator:**</mark>
 
-* Starts the process by performing an actions
+* <mark style="color:purple;background-color:purple;">**Starts the process by performing an actions**</mark>
 * This can happen knowingly or unknowingly
 * E.g., employee who request for new laptop
 
 
 
-**Decision Maker:**
+<mark style="color:purple;background-color:purple;">**Decision Maker:**</mark>
 
-* Decisions that influence the direction of the process
-* Arrovals or rejections lead to different process
+* <mark style="color:purple;background-color:purple;">**Decisions that influence the direction of the process**</mark>
+* Approvals or rejections lead to different process
 
 
 
-**Process participants:**
+<mark style="color:purple;background-color:purple;">**Process participants:**</mark>
 
-* Need to perform a tasks within the process
+* <mark style="color:purple;background-color:purple;">**Need to perform a tasks within the process**</mark>
 * These can be typical tasks or tasks performed within software systems
 * E.g., IT executive who release the device
 
 
 
-**Process instance reviewer:**
+<mark style="color:purple;background-color:purple;">**Process instance reviewer:**</mark>
 
-* Reviews whether the processes running properly or not
+* <mark style="color:purple;background-color:purple;">**Reviews whether the processes running properly or not**</mark>
 
 
 
