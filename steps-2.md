@@ -20,7 +20,7 @@
 
 1.  Enter sub account details like account, username, password etc
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. Once connected, its visible in cloud connector in BTP
 
 *
