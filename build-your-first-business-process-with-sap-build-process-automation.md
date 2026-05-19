@@ -32,7 +32,7 @@ Overview:
 
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 10. Design the Approval form ⇒ Add subject ⇒ Map input ⇒ Add recipient
 11. Add form for Approve path and Reject path
